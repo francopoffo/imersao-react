@@ -1,0 +1,29 @@
+{
+  "name": "imersao-react",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/francopoffo/imersao-react.git"
+  },
+  "author": "Franco Poffo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/francopoffo/imersao-react/issues"
+  },
+  "homepage": "https://github.com/francopoffo/imersao-react#readme",
+  "dependencies": {
+    "next": "13.0.2",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "styled-components": "^5.3.6"
+  }
+}
