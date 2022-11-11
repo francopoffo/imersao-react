@@ -1,95 +1,101 @@
 {
-    "name": "Franco César Sutter Poffo",
+    "name": "Franco Poffo",
     "job": "Front End Developer",
+    "bg": "https://w.wallha.com/ws/14/hNdVtYwU.jpg",
     "github": "francopoffo",
+    "favorites": [
+        {
+
+        }
+    ],
     "playlists": {
-        "jogos": [
+        "Culinária - Criadores estrangeiros": [
             {
-                "title": "Frostpunk - Neve e Steak tartare",
-                "url": "https://www.youtube.com/watch?v=QsqatJxAUtk",
-                "thumb": "https://img.youtube.com/vi/QsqatJxAUtk/hqdefault.jpg"
+                "title": "3 Unbelievable Mexican Meals Under 15 Minutes",
+                "url": "https://www.youtube.com/watch?v=tkIuFO-Pju0",
+                "thumb": "http://i3.ytimg.com/vi/tkIuFO-Pju0/hqdefault.jpg"
             },
             {
-                "title": "Frostpunk - Neve e Steak tartare",
-                "url": "https://www.youtube.com/watch?v=O8jtAyPuhNg",
-                "thumb": "https://img.youtube.com/vi/O8jtAyPuhNg/hqdefault.jpg"
+                "title": "15 Mistakes Most Beginner Sourdough Bakers Make",
+                "url": "https://www.youtube.com/watch?v=BJEHsvW2J6M",
+                "thumb": "http://i3.ytimg.com/vi/BJEHsvW2J6M/hqdefault.jpg"
             },
             {
-                "title": "Gas Station Simulator - 8 dias sem dormir!",
-                "url": "https://www.youtube.com/watch?v=R1d0DyRDG_Q",
-                "thumb": "https://img.youtube.com/vi/R1d0DyRDG_Q/hqdefault.jpg"
+                "title": "Whiskey Lamb Shanks | Friday Night Feast | Jamie Oliver",
+                "url": "https://www.youtube.com/watch?v=BVs_nP6wGM4",
+                "thumb": "http://i3.ytimg.com/vi/BVs_nP6wGM4/hqdefault.jpg"
             },
             {
-                "title": "Gartic Phone - Não assista a esse NerdPlayer!",
-                "url": "https://www.youtube.com/watch?v=0oJQUs5oRiM",
-                "thumb": "https://img.youtube.com/vi/0oJQUs5oRiM/hqdefault.jpg"
+                "title": "Super Green Falafel | Friday Night Feast | Jamie Oliver",
+                "url": "https://www.youtube.com/watch?v=5Qsnmi7aaP8",
+                "thumb": "http://i3.ytimg.com/vi/5Qsnmi7aaP8/hqdefault.jpg"
             },
             {
-                "title": "Netdecking Estraga o Magic?",
-                "url": "https://www.youtube.com/watch?v=dXihyhYEsEc",
-                "thumb": "https://img.youtube.com/vi/dXihyhYEsEc/hqdefault.jpg"
+                "title": "Apple Galette (Easier and BETTER than Apple Pie)",
+                "url": "https://www.youtube.com/watch?v=sSkjBodTzGU",
+                "thumb": "http://i3.ytimg.com/vi/sSkjBodTzGU/hqdefault.jpg"
             },
             {
-                "title": "Cities: Skylines - EPCOTAB, o futuro de Saint Laurrent",
-                "url": "https://www.youtube.com/watch?v=zybKHMgLCWU",
-                "thumb": "https://img.youtube.com/vi/zybKHMgLCWU/hqdefault.jpg"
+                "title": "Greatest Goat Quesabirria Tacos | Cookin' Somethin' w/ Matty Matheson",
+                "url": "https://www.youtube.com/watch?v=wP71HXqNkcA",
+                "thumb": "http://i3.ytimg.com/vi/wP71HXqNkcA/hqdefault.jpg"
             },
             {
-                "title": "We Were Here Together - Os Enigmas deste Mundo",
-                "url": "https://www.youtube.com/watch?v=UKgQsrHUG40",
-                "thumb": "https://img.youtube.com/vi/UKgQsrHUG40/hqdefault.jpg"
+                "title": "The Easiest Actually Good Baguette You Can Make at Home",
+                "url": "https://www.youtube.com/watch?v=5FR__Gt0CSo",
+                "thumb": "http://i3.ytimg.com/vi/5FR__Gt0CSo/hqdefault.jpg"
             },
             {
-                "title": "Microsoft Flight Simulator - Top Gun: Oceania - Missão RJ!",
-                "url": "https://www.youtube.com/watch?v=n3TneUb5c-w",
-                "thumb": "https://img.youtube.com/vi/n3TneUb5c-w/hqdefault.jpg"
+                "title": "I Made the Spiciest Meal Ever",
+                "url": "https://www.youtube.com/watch?v=e7erf3r9Uw8",
+                "thumb": "http://i3.ytimg.com/vi/e7erf3r9Uw8/hqdefault.jpg"
+            },
+            {
+                "title": "$3 Easy Chinese Meal From Scratch (Dim Sum)",
+                "url": "https://www.youtube.com/watch?v=Hg_zVEuYP_Y",
+                "thumb": "http://i3.ytimg.com/vi/Hg_zVEuYP_Y/hqdefault.jpg"
             }
         ],
-        "front-end": [
+        "Culinária - Criadores brasileiros": [
             {
-                "title": "Jogo com JavaScript #01: Criando um Flappy Bird do ZERO!!!",
-                "url": "https://youtube.com/watch?v=jOAU81jdi-c",
-                "thumb": "https://img.youtube.com/vi/jOAU81jdi-c/hqdefault.jpg"
+                "title": "COMO COZINHAR MACARRÃO | Cozinha Básica 2.0",
+                "url": "https://www.youtube.com/watch?v=KdWLpg_G_W8",
+                "thumb": "http://i3.ytimg.com/vi/KdWLpg_G_W8/hqdefault.jpg"
             },
             {
-                "title": "Jogo com JavaScript #01: Criando um Flappy Bird do ZERO!!!",
-                "url": "https://www.youtube.com/watch?v=llF6vD-RljE",
-                "thumb": "https://img.youtube.com/vi/llF6vD-RljE/hqdefault.jpg"
+                "title": "Minha herança para o mundo!",
+                "url": "https://www.youtube.com/watch?v=vPDSq6If3U4",
+                "thumb": "http://i3.ytimg.com/vi/vPDSq6If3U4/hqdefault.jpg"
             },
             {
-                "title": "A Primeira Aula de Flutter Que Todo Mundo Deveria Ter",
-                "url": "https://www.youtube.com/watch?v=J4BVaXkwmM8",
-                "thumb": "https://img.youtube.com/vi/J4BVaXkwmM8/hqdefault.jpg"
+                "title": "Molho de Tomate por Alex Atala",
+                "url": "https://www.youtube.com/watch?v=2fDneQjeyKw",
+                "thumb": "http://i3.ytimg.com/vi/2fDneQjeyKw/hqdefault.jpg"
             },
             {
-                "title": "O QUE SÃO FRAMEWORKS E BIBLIOTECAS? QUAIS AS DIFERENÇAS?",
-                "url": "https://www.youtube.com/watch?v=dp0zB4n3MUs",
-                "thumb": "https://img.youtube.com/vi/dp0zB4n3MUs/hqdefault.jpg"
+                "title": "Macarrão com Pesto por Alex Atala",
+                "url": "https://www.youtube.com/watch?v=TG4dyHw2HM8",
+                "thumb": "http://i3.ytimg.com/vi/TG4dyHw2HM8/hqdefault.jpg"
             },
             {
-                "title": "Angular (O Vídeo que Você Precisava para Começar no Framework) // Dicionário do Programador",
-                "url": "https://www.youtube.com/watch?v=Yf0rC7dERjg",
-                "thumb": "https://img.youtube.com/vi/Yf0rC7dERjg/hqdefault.jpg"
+                "title": "A MELHOR RECEITA DE GALINHADA :: SÉRIE CLÁSSICOS DO BRASIL :: UNDERCHEF",
+                "url": "https://www.youtube.com/watch?v=BHtgf5gn3BA",
+                "thumb": "http://i3.ytimg.com/vi/BHtgf5gn3BA/hqdefault.jpg"
             },
             {
-                "title": "Como Foi Programado um App Que Faz Mágica",
-                "url": "https://www.youtube.com/watch?v=I36seuWUe5s",
-                "thumb": "https://img.youtube.com/vi/I36seuWUe5s/hqdefault.jpg"
+                "title": "NHOQUE DE ABÓBORA E FONDUTA DE QUEIJO DE CABRA :: UNDERCHEF",
+                "url": "https://www.youtube.com/watch?v=KZABC3Cy4Rc",
+                "thumb": "http://i3.ytimg.com/vi/KZABC3Cy4Rc/hqdefault.jpg"
             },
             {
-                "title": "O que todo iniciante em Front End deveria aprender | Como manipular arrays e objetos em JavaScript",
-                "url": "https://www.youtube.com/watch?v=yS7AcF-xRUg",
-                "thumb": "https://img.youtube.com/vi/yS7AcF-xRUg/hqdefault.jpg"
+                "title": "Segredos de uma carne suculenta!",
+                "url": "https://www.youtube.com/watch?v=vO2cR7DoUKE",
+                "thumb": "http://i3.ytimg.com/vi/vO2cR7DoUKE/hqdefault.jpg"
             },
             {
-                "title": "5 Erros Históricos do CSS",
-                "url": "https://www.youtube.com/watch?v=HNjkqONzGS0",
-                "thumb": "https://img.youtube.com/vi/HNjkqONzGS0/hqdefault.jpg"
-            },
-            {
-                "title": "Deploy de Front End ATUALIZADO! | O que eu uso para hospedagem de Front End",
-                "url": "https://www.youtube.com/watch?v=d9c0r-J6CdM",
-                "thumb": "https://img.youtube.com/vi/d9c0r-J6CdM/hqdefault.jpg"
+                "title": "Meu amigo cozinhou pra mim! - Ragù alla Bolognese",
+                "url": "https://www.youtube.com/watch?v=sgGlboAtqHM",
+                "thumb": "http://i3.ytimg.com/vi/sgGlboAtqHM/hqdefault.jpg"
             }
         ],
         "back-end": [
@@ -131,3 +137,5 @@
         ]
     }
 }
+
+        
