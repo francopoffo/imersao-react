@@ -98,41 +98,41 @@
                 "thumb": "http://i3.ytimg.com/vi/sgGlboAtqHM/hqdefault.jpg"
             }
         ],
-        "back-end": [
+        "Anthony Bourdain": [
             {
-                "title": "Node JS: Construindo CRUDs com file system focando em serialização e JSON",
-                "url": "https://www.youtube.com/watch?v=dvd3pNYh7So",
-                "thumb": "https://img.youtube.com/vi/dvd3pNYh7So/hqdefault.jpg"
+                "title": "Anthony Bourdain em Belo Horizonte",
+                "url": "https://www.youtube.com/watch?v=bVJUDiT-XCA",
+                "thumb": "http://i3.ytimg.com/vi/bVJUDiT-XCA/hqdefault.jpg"
             },
             {
-                "title": "Node JS: Construindo CRUDs com file system focando em serialização e JSON",
-                "url": "https://www.youtube.com/watch?v=8q36rNS5yVo",
-                "thumb": "https://img.youtube.com/vi/8q36rNS5yVo/hqdefault.jpg"
+                "title": "Anthony Bourdain: Parts Unknown | Bahia, Brazil",
+                "url": "https://www.youtube.com/watch?v=OqhzTzw9RxQ",
+                "thumb": "http://i3.ytimg.com/vi/OqhzTzw9RxQ/hqdefault.jpg"
             },
             {
-                "title": "O que é o Java? #HipstersPontoTube",
-                "url": "https://www.youtube.com/watch?v=90NcVNsKGik",
-                "thumb": "https://img.youtube.com/vi/90NcVNsKGik/hqdefault.jpg"
+                "title": "Anthony Bourdain: Parts Unknown | Thailand",
+                "url": "https://www.youtube.com/watch?v=frYGW4iYnpA",
+                "thumb": "http://i3.ytimg.com/vi/frYGW4iYnpA/hqdefault.jpg"
             },
             {
-                "title": "O que é Machine Learning? #HipstersPontoTube",
-                "url": "https://www.youtube.com/watch?v=Iuz_jc96bQk",
-                "thumb": "https://img.youtube.com/vi/Iuz_jc96bQk/hqdefault.jpg"
+                "title": "Anthony Bourdain: Parts Unknown | Vietnam",
+                "url": "https://www.youtube.com/watch?v=_aBkKdekMD8",
+                "thumb": "http://i3.ytimg.com/vi/_aBkKdekMD8/hqdefault.jpg"
             },
             {
-                "title": "A MELHOR linguagem de programação com Fabio Akita | #HipstersPontoTube",
-                "url": "https://www.youtube.com/watch?v=imB0QVoNrGc",
-                "thumb": "https://img.youtube.com/vi/imB0QVoNrGc/hqdefault.jpg"
+                "title": "Anthony Bourdain: Parts Unknown | Tokyo",
+                "url": "https://www.youtube.com/watch?v=py6ZQ5RczdQ",
+                "thumb": "http://i3.ytimg.com/vi/py6ZQ5RczdQ/hqdefault.jpg"
             },
             {
-                "title": "Top 5 libs que todo aplicativo Android deve ter com Alex Felipe | #HipstersPontoTube",
-                "url": "https://www.youtube.com/watch?v=ldRbnpy-qQs",
-                "thumb": "https://img.youtube.com/vi/ldRbnpy-qQs/hqdefault.jpg"
+                "title": "Anthony Bourdain: Parts Unknown | South Africa",
+                "url": "https://www.youtube.com/watch?v=TyVUiINb4Os",
+                "thumb": "http://i3.ytimg.com/vi/TyVUiINb4Os/hqdefault.jpg"
             },
             {
-                "title": "O que é o C#? #HipstersPontoTube",
-                "url": "https://www.youtube.com/watch?v=0JWMVc1CqpA",
-                "thumb": "https://img.youtube.com/vi/0JWMVc1CqpA/hqdefault.jpg"
+                "title": "Anthony Bourdain: Parts Unknown | Congo",
+                "url": "https://www.youtube.com/watch?v=ivuXF2qPAPk",
+                "thumb": "http://i3.ytimg.com/vi/ivuXF2qPAPk/hqdefault.jpg"
             }
         ]
     }
